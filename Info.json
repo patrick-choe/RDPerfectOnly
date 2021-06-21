@@ -1,0 +1,8 @@
+﻿{
+  "Id": "RDPerfectOnly",
+  "DisplayName": "RD Perfect Only",
+  "Author": "PatrickKR",
+  "Version": "1.0.0",
+  "AssemblyName": "RDPerfectOnly.dll",
+  "EntryMethod": "RDPerfectOnly.Main.Load"
+}
